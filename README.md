@@ -6,3 +6,7 @@ install_cpu_guard.sh 限制cpu长期占用脚本
 ```shell
 bash <(curl -L https://raw.githubusercontent.com/mydoor110/script/main/change_dns.sh)
 ```
+
+```shell
+https://raw.githubusercontent.com/mydoor110/script/main/bybit.list
+```
