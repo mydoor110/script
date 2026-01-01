@@ -8,5 +8,5 @@ bash <(curl -L https://raw.githubusercontent.com/mydoor110/script/main/change_dn
 ```
 
 ```shell
-https://raw.githubusercontent.com/mydoor110/script/main/bybit.list
+https://raw.githubusercontent.com/mydoor110/script/refs/heads/main/Bybit.json
 ```
