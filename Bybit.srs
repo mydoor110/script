@@ -1,25 +1,38 @@
-domain:bybit-exchange.github.io
-domain:app-measurement.com
-domain:ffbbbdc6d3c353211fe2ba39c9f744cd.com
-domain:ffe390afd658c19dcbf707e0597b846d.de
-domain-suffix:amazon.com
-domain-suffix:amazonaws.com
-domain-suffix:bybit.biz
-domain-suffix:bybit.com
-domain-suffix:bycsi.com
-domain-suffix:bytick.com
-domain-suffix:byapis.com
-domain-suffix:bycbe.com
-domain-suffix:bymj.io
-domain-suffix:byabcde.com
-domain-suffix:byapps.net
-domain-suffix:byd3c3.com
-domain-suffix:bybdc6.com
-domain-suffix:appsflyer.com
-ip-cidr:13.32.121.6/32
-ip-cidr:43.133.238.145/32
-ip-cidr:13.33.187.108/32
-ip-cidr:150.109.230.182/32
-ip-cidr:142.251.215.234/32
-ip-cidr:43.133.241.84/32
-ip-cidr:3.160.150.37/32
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain": [
+        "bybit-exchange.github.io",
+        "app-measurement.com",
+        "ffbbbdc6d3c353211fe2ba39c9f744cd.com",
+        "ffe390afd658c19dcbf707e0597b846d.de"
+      ],
+      "domain_suffix": [
+        "amazon.com",
+        "amazonaws.com",
+        "bybit.biz",
+        "bybit.com",
+        "bycsi.com",
+        "bytick.com",
+        "byapis.com",
+        "bycbe.com",
+        "bymj.io",
+        "byabcde.com",
+        "byapps.net",
+        "byd3c3.com",
+        "bybdc6.com",
+        "appsflyer.com"
+      ],
+      "ip_cidr": [
+        "13.32.121.6/32",
+        "43.133.238.145/32",
+        "13.33.187.108/32",
+        "150.109.230.182/32",
+        "142.251.215.234/32",
+        "43.133.241.84/32",
+        "3.160.150.37/32"
+      ]
+    }
+  ]
+}
