@@ -10,3 +10,8 @@ bash <(curl -L https://raw.githubusercontent.com/mydoor110/script/main/change_dn
 ```shell
 https://raw.githubusercontent.com/mydoor110/script/refs/heads/main/Bybit.json
 ```
+
+一键配置开发环境
+```shell
+bash <(curl -L https://raw.githubusercontent.com/mydoor110/script/main/change_dns.sh)
+```
