@@ -7,6 +7,13 @@ install_cpu_guard.sh 限制cpu长期占用脚本
 bash <(curl -L https://raw.githubusercontent.com/mydoor110/script/main/change_dns.sh)
 ```
 
+singbox脚本
+
+```shell
+https://raw.githubusercontent.com/mydoor110/script/refs/heads/main/
+```
+
+singbox bybit规则集
 ```shell
 https://raw.githubusercontent.com/mydoor110/script/refs/heads/main/Bybit.json
 ```
