@@ -10,7 +10,7 @@ bash <(curl -L https://raw.githubusercontent.com/mydoor110/script/main/change_dn
 singbox脚本
 
 ```shell
-https://raw.githubusercontent.com/mydoor110/script/refs/heads/main/
+https://raw.githubusercontent.com/mydoor110/script/refs/heads/main/singbox.sh
 ```
 
 singbox bybit规则集
