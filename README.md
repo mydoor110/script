@@ -25,5 +25,5 @@ bash <(curl -L https://raw.githubusercontent.com/mydoor110/script/main/setup_dev
 
 一键配置SSH端口和防火墙
 ```shell
-bash <(curl -fsSL https://raw.githubusercontent.com/mydoor110/script/main/setup.sh)
+bash <(curl -fsSL https://raw.githubusercontent.com/mydoor110/script/main/secure-server.sh)
 ```
