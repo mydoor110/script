@@ -22,3 +22,8 @@ https://raw.githubusercontent.com/mydoor110/script/refs/heads/main/Bybit.json
 ```shell
 bash <(curl -L https://raw.githubusercontent.com/mydoor110/script/main/setup_dev.sh)
 ```
+
+一键配置SSH端口和防火墙
+```shell
+bash <(curl -fsSL https://raw.githubusercontent.com/mydoor110/script/main/setup.sh)
+```
